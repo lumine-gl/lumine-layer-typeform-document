@@ -1,0 +1,21 @@
+{
+  "name": "lumine-layer-typeform-document",
+  "version": "0.0.0",
+  "description": "A Lumine Layer that creates bin-packed canvases in a configurable grid.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumine-gl/lumine-layer-document.git"
+  },
+  "author": "Will Shown <will.shown@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumine-gl/lumine-layer-document/issues"
+  },
+  "homepage": "https://github.com/lumine-gl/lumine-layer-document",
+  "dependencies": {
+    "lodash": "latest",
+    "lumine": "lumine-gl/lumine",
+    "three": "0.71"
+  }
+}
